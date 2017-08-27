@@ -1,6 +1,18 @@
 .wrapper {
   width: 100%;
   height: 100%;
-  background-image: image("./wallhaven-93962.jpg");
+  text-align: center;
+  vertical-align: middle;
   color: red;
+  image: url
+  
+}
+Body {
+  margin:0;
+  padding:0;
+  background-image:url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-469001.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  font-family: 'Open Sans', sans-serif;
 }
